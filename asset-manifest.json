@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Udit2820.github.io/Get-Infinite-Images/static/css/main.f3ed45ad.css",
+    "main.js": "/Udit2820.github.io/Get-Infinite-Images/static/js/main.ca84fd4a.js",
+    "static/js/787.58f764ca.chunk.js": "/Udit2820.github.io/Get-Infinite-Images/static/js/787.58f764ca.chunk.js",
+    "index.html": "/Udit2820.github.io/Get-Infinite-Images/index.html",
+    "main.f3ed45ad.css.map": "/Udit2820.github.io/Get-Infinite-Images/static/css/main.f3ed45ad.css.map",
+    "main.ca84fd4a.js.map": "/Udit2820.github.io/Get-Infinite-Images/static/js/main.ca84fd4a.js.map",
+    "787.58f764ca.chunk.js.map": "/Udit2820.github.io/Get-Infinite-Images/static/js/787.58f764ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ed45ad.css",
+    "static/js/main.ca84fd4a.js"
+  ]
+}
